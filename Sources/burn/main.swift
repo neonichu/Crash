@@ -1,0 +1,3 @@
+import Crash
+
+yatusabes()
